@@ -1,0 +1,1 @@
+This is the file-c file only for Third branch i.e., second_branch.
