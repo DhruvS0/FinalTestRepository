@@ -1,0 +1,1 @@
+This is file-b which is to be shared with main and first_branch.
